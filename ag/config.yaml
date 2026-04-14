@@ -1,0 +1,4 @@
+mode: single     # single | auto | manual
+model: ollama    # ollama | gpt | claude
+danger_mode: true
+color: true
