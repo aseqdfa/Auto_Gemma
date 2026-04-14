@@ -1,6 +1,6 @@
 # Auto_Gemma
 Auto_Gemma for all ai
-# 🚀 ag (Auto Gemma v5)
+# 🚀 AG (Auto Gemma v5)
 
 Multi-LLM Autonomous CLI Agent (Local + Cloud)
 
